@@ -1,1 +1,3 @@
-# starter-files
+# Starter files
+
+Examples of starter config files
